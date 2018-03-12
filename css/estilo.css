@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+}
+p {
+	text-indent: 5%;
+}
+legend {
+	text-align: center;
+}
+img {
+	border: 5px solid black;
+	width: 1350px;
+}
+h1 {
+	text-align: center;
+}

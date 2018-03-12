@@ -1,0 +1,28 @@
+.topo {
+	height: 15%;
+	background-color: yellow;
+	margin: 0;
+}
+
+.titulo {
+	height: 20%;
+	background-color: orange;
+	margin: 0;
+}
+
+.conteudo {
+	height: 55%;
+	background-color: lightblue;
+	margin: 0;
+}
+
+.rodape {
+	height: 10%;
+	background-color: lightyellow;
+	margin: 0;
+}
+
+h1, h3, h4 {
+	text-align: center;
+	margin: 0;
+}
