@@ -9,8 +9,16 @@ legend {
 }
 img {
 	border: 5px solid black;
-	width: 1350px;
 }
 h1 {
 	text-align: center;
+}
+
+div.fig01 img, div.fig02 img, div.fig03 img, div.fig09 img, div.fig10 img, div.fig11 img {
+	width: 1350px;
+}
+
+div.rodape {
+	text-align: right;
+	font-size: 40pt;
 }
