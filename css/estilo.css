@@ -7,16 +7,27 @@ p {
 legend {
 	text-align: center;
 }
-img {
-	border: 5px solid black;
-}
+
 h1, h2 {
 	text-align: center;
 }
 
-/* div.fig01 img, div.fig02 img, div.fig03 img, div.fig09 img, div.fig10 img, div.fig11 img { */
-	/* width: 1350px; */
+.tela img {
+	width: 1350px;
+}
+
+
+/* .parte img{ */
+	/* margin-left: auto; */
+	/* margin-right: auto; */
+	/* width: 50%; */
+	/* max-width: 100%; */
 /* } */
+
+.parte legend {
+	text-indent: 5%;
+	text-align: left;
+}
 
 div.rodape {
 	height: 200px;
