@@ -1,19 +1,20 @@
 .topo {
-	height: 10%;
+	height: 14%;
 	background-color: yellow;
 	margin: 0;
 }
 
 .titulo {
-	height: 15%;
+	height: 0%;
 	background-color: orange;
 	margin: 0;
 }
 
 .conteudo {
-	height: 60%;
+	height: 71%;
 	background-color: lightblue;
 	margin: 0;
+	overflow-y: scroll;
 }
 
 .rodape {
@@ -22,7 +23,7 @@
 	margin: 0;
 }
 
-h1, h3, h4 {
+h1, h2, h3, h4 {
 	text-align: center;
 	margin: 0;
 }
