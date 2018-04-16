@@ -3,15 +3,18 @@
 <meta charset="UTF8">
 </head>
 <style>
-@media only screen and (max-width: 720px)
+@media only screen and (min-width: 1280px)
 {
 h1 {
-  font-size: 40px;
-  text-align: center;
+  text-align: left;
 }
+
 table {
-  width: 100%;
-  font-size: 30px;
+  width: 40%;
+}
+
+tr:nth-child(even) {
+  background-color: #ffff00
 }
 
 #nome {
@@ -24,13 +27,19 @@ table {
 }
 }
 
-@media only screen and (min-width: 721px)
+@media only screen and (max-width: 1280px) 
 {
 h1 {
   text-align: center;
+  font-size:60px;
 }
 table {
-  width: 60%;
+  width: 100%;
+  font-size:35px;
+}
+
+tr:nth-child(even) {
+  background-color: #ffff00;
 }
 
 #nome {
